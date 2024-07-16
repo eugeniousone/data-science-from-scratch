@@ -25,3 +25,4 @@ mnist
 
 # For parsing dates
 python-dateutil
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
